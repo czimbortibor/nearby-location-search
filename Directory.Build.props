@@ -1,0 +1,9 @@
+<Project>
+ <PropertyGroup>
+    <LangVersion>8</LangVersion>
+    <!-- looking at the future to enable this -->
+    <Nullable>disable</Nullable> 
+    <RunAnalyzersDuringBuild>true</RunAnalyzersDuringBuild>
+    <RunAnalyzersDuringLiveAnalysis>true</RunAnalyzersDuringLiveAnalysis>
+ </PropertyGroup>
+</Project>
